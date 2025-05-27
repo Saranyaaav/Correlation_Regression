@@ -1,3 +1,5 @@
+# Developed by : Saranya V
+# Register No : 212223040188
 # EX: 3 Correlation and regression for data analysis
 ## Date: 28-03-2025
 # Aim : 
@@ -21,8 +23,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-# Developed by : Saranya V
-# Register No : 212223040188
 ```
 import numpy as np
 import math
